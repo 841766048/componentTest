@@ -1,0 +1,22 @@
+{
+  "name": "componentTest",
+  "version": "0.1.0",
+  "summary": "A short description of componentTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/841766048/componentTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "841766048": "841766048@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/841766048/componentTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "componentTest/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module componentTest {
+  umbrella header "componentTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
